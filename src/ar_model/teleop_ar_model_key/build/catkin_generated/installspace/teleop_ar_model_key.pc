@@ -1,0 +1,8 @@
+prefix=/usr/local
+
+Name: teleop_ar_model_key
+Description: Description of teleop_ar_model_key
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: roscpp geometry_msgs std_msgs gazebo_msgs

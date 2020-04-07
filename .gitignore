@@ -1,5 +1,8 @@
-build/
-devel/
-logs/
+/build
+/devel
+/logs
 *.ps
 *.pnm
+*.png
+*.pdf
+*.gv

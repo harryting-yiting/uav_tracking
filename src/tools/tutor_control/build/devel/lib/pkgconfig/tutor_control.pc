@@ -1,0 +1,8 @@
+prefix=/home/yitinghe/Desktop/final_project/MAVROS/mavros_ws/src/tutor_control/build/devel
+
+Name: tutor_control
+Description: Description of tutor_control
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

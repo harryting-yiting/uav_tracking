@@ -1,0 +1,8 @@
+prefix=/usr/local
+
+Name: MYROBOT_control
+Description: Description of MYROBOT_control
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

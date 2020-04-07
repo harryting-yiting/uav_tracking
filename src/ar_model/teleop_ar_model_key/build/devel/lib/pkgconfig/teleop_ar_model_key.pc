@@ -1,0 +1,8 @@
+prefix=/home/yitinghe/Desktop/final_project/final_project/mavros_ws/src/ar_model/teleop_ar_model_key/build/devel
+
+Name: teleop_ar_model_key
+Description: Description of teleop_ar_model_key
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: roscpp geometry_msgs std_msgs gazebo_msgs

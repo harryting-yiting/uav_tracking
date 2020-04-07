@@ -1,0 +1,8 @@
+prefix=/home/yitinghe/Desktop/final_project/final_project/mavros_ws/src/MYROBOT_control/build/devel
+
+Name: MYROBOT_control
+Description: Description of MYROBOT_control
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

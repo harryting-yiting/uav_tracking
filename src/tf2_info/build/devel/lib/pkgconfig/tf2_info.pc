@@ -1,0 +1,8 @@
+prefix=/home/yitinghe/Desktop/final_project/final_project/mavros_ws/src/tf2_info/build/devel
+
+Name: tf2_info
+Description: Description of tf2_info
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: gazebo_msgs geometry_msgs roscpp rospy std_msgs tf2 tf2_ros
