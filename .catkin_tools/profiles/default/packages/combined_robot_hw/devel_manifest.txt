@@ -1,6 +1,0 @@
-tools/ros_control/combined_robot_hw
-/home/yitinghe/Desktop/final_project/final_project/mavros_ws/devel/.private/combined_robot_hw/cmake.lock /home/yitinghe/Desktop/final_project/final_project/mavros_ws/devel/./cmake.lock
-/home/yitinghe/Desktop/final_project/final_project/mavros_ws/devel/.private/combined_robot_hw/share/combined_robot_hw/cmake/combined_robot_hwConfig-version.cmake /home/yitinghe/Desktop/final_project/final_project/mavros_ws/devel/share/combined_robot_hw/cmake/combined_robot_hwConfig-version.cmake
-/home/yitinghe/Desktop/final_project/final_project/mavros_ws/devel/.private/combined_robot_hw/share/combined_robot_hw/cmake/combined_robot_hwConfig.cmake /home/yitinghe/Desktop/final_project/final_project/mavros_ws/devel/share/combined_robot_hw/cmake/combined_robot_hwConfig.cmake
-/home/yitinghe/Desktop/final_project/final_project/mavros_ws/devel/.private/combined_robot_hw/lib/libcombined_robot_hw.so /home/yitinghe/Desktop/final_project/final_project/mavros_ws/devel/lib/libcombined_robot_hw.so
-/home/yitinghe/Desktop/final_project/final_project/mavros_ws/devel/.private/combined_robot_hw/lib/pkgconfig/combined_robot_hw.pc /home/yitinghe/Desktop/final_project/final_project/mavros_ws/devel/lib/pkgconfig/combined_robot_hw.pc

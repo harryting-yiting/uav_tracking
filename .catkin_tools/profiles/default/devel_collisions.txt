@@ -1,2 +1,0 @@
-/home/yitinghe/Desktop/final_project/final_project/mavros_ws/devel/./cmake.lock 570
-/home/yitinghe/Desktop/final_project/MAVROS/mavros_ws/devel/./cmake.lock 61

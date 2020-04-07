@@ -1,6 +1,0 @@
-tools/tutor_control
-/home/yitinghe/Desktop/final_project/final_project/mavros_ws/devel/.private/tutor_control/cmake.lock /home/yitinghe/Desktop/final_project/final_project/mavros_ws/devel/./cmake.lock
-/home/yitinghe/Desktop/final_project/final_project/mavros_ws/devel/.private/tutor_control/share/tutor_control/cmake/tutor_controlConfig-version.cmake /home/yitinghe/Desktop/final_project/final_project/mavros_ws/devel/share/tutor_control/cmake/tutor_controlConfig-version.cmake
-/home/yitinghe/Desktop/final_project/final_project/mavros_ws/devel/.private/tutor_control/share/tutor_control/cmake/tutor_controlConfig.cmake /home/yitinghe/Desktop/final_project/final_project/mavros_ws/devel/share/tutor_control/cmake/tutor_controlConfig.cmake
-/home/yitinghe/Desktop/final_project/final_project/mavros_ws/devel/.private/tutor_control/lib/tutor_control/tutor_control_node /home/yitinghe/Desktop/final_project/final_project/mavros_ws/devel/lib/tutor_control/tutor_control_node
-/home/yitinghe/Desktop/final_project/final_project/mavros_ws/devel/.private/tutor_control/lib/pkgconfig/tutor_control.pc /home/yitinghe/Desktop/final_project/final_project/mavros_ws/devel/lib/pkgconfig/tutor_control.pc

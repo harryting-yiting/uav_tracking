@@ -1,5 +1,0 @@
-ar_model/ar_model_gazebo
-/home/yitinghe/Desktop/final_project/final_project/mavros_ws/devel/.private/ar_model_gazebo/cmake.lock /home/yitinghe/Desktop/final_project/final_project/mavros_ws/devel/./cmake.lock
-/home/yitinghe/Desktop/final_project/final_project/mavros_ws/devel/.private/ar_model_gazebo/share/ar_model_gazebo/cmake/ar_model_gazeboConfig-version.cmake /home/yitinghe/Desktop/final_project/final_project/mavros_ws/devel/share/ar_model_gazebo/cmake/ar_model_gazeboConfig-version.cmake
-/home/yitinghe/Desktop/final_project/final_project/mavros_ws/devel/.private/ar_model_gazebo/share/ar_model_gazebo/cmake/ar_model_gazeboConfig.cmake /home/yitinghe/Desktop/final_project/final_project/mavros_ws/devel/share/ar_model_gazebo/cmake/ar_model_gazeboConfig.cmake
-/home/yitinghe/Desktop/final_project/final_project/mavros_ws/devel/.private/ar_model_gazebo/lib/pkgconfig/ar_model_gazebo.pc /home/yitinghe/Desktop/final_project/final_project/mavros_ws/devel/lib/pkgconfig/ar_model_gazebo.pc

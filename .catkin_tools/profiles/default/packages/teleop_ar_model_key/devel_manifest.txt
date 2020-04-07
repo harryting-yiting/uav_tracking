@@ -1,6 +1,0 @@
-ar_model/teleop_ar_model_key
-/home/yitinghe/Desktop/final_project/final_project/mavros_ws/devel/.private/teleop_ar_model_key/cmake.lock /home/yitinghe/Desktop/final_project/final_project/mavros_ws/devel/./cmake.lock
-/home/yitinghe/Desktop/final_project/final_project/mavros_ws/devel/.private/teleop_ar_model_key/share/teleop_ar_model_key/cmake/teleop_ar_model_keyConfig.cmake /home/yitinghe/Desktop/final_project/final_project/mavros_ws/devel/share/teleop_ar_model_key/cmake/teleop_ar_model_keyConfig.cmake
-/home/yitinghe/Desktop/final_project/final_project/mavros_ws/devel/.private/teleop_ar_model_key/share/teleop_ar_model_key/cmake/teleop_ar_model_keyConfig-version.cmake /home/yitinghe/Desktop/final_project/final_project/mavros_ws/devel/share/teleop_ar_model_key/cmake/teleop_ar_model_keyConfig-version.cmake
-/home/yitinghe/Desktop/final_project/final_project/mavros_ws/devel/.private/teleop_ar_model_key/lib/pkgconfig/teleop_ar_model_key.pc /home/yitinghe/Desktop/final_project/final_project/mavros_ws/devel/lib/pkgconfig/teleop_ar_model_key.pc
-/home/yitinghe/Desktop/final_project/final_project/mavros_ws/devel/.private/teleop_ar_model_key/lib/teleop_ar_model_key/teleop_ar_model_key_node /home/yitinghe/Desktop/final_project/final_project/mavros_ws/devel/lib/teleop_ar_model_key/teleop_ar_model_key_node

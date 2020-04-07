@@ -1,5 +1,0 @@
-ar_model/rrbot_description
-/home/yitinghe/Desktop/final_project/final_project/mavros_ws/devel/.private/rrbot_description/cmake.lock /home/yitinghe/Desktop/final_project/final_project/mavros_ws/devel/./cmake.lock
-/home/yitinghe/Desktop/final_project/final_project/mavros_ws/devel/.private/rrbot_description/share/rrbot_description/cmake/rrbot_descriptionConfig-version.cmake /home/yitinghe/Desktop/final_project/final_project/mavros_ws/devel/share/rrbot_description/cmake/rrbot_descriptionConfig-version.cmake
-/home/yitinghe/Desktop/final_project/final_project/mavros_ws/devel/.private/rrbot_description/share/rrbot_description/cmake/rrbot_descriptionConfig.cmake /home/yitinghe/Desktop/final_project/final_project/mavros_ws/devel/share/rrbot_description/cmake/rrbot_descriptionConfig.cmake
-/home/yitinghe/Desktop/final_project/final_project/mavros_ws/devel/.private/rrbot_description/lib/pkgconfig/rrbot_description.pc /home/yitinghe/Desktop/final_project/final_project/mavros_ws/devel/lib/pkgconfig/rrbot_description.pc

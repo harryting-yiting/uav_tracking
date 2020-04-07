@@ -1,7 +1,0 @@
-tools/mavros/test_mavros
-/home/yitinghe/Desktop/final_project/final_project/mavros_ws/devel/.private/test_mavros/cmake.lock /home/yitinghe/Desktop/final_project/final_project/mavros_ws/devel/./cmake.lock
-/home/yitinghe/Desktop/final_project/final_project/mavros_ws/devel/.private/test_mavros/share/test_mavros/cmake/test_mavrosConfig.cmake /home/yitinghe/Desktop/final_project/final_project/mavros_ws/devel/share/test_mavros/cmake/test_mavrosConfig.cmake
-/home/yitinghe/Desktop/final_project/final_project/mavros_ws/devel/.private/test_mavros/share/test_mavros/cmake/test_mavrosConfig-version.cmake /home/yitinghe/Desktop/final_project/final_project/mavros_ws/devel/share/test_mavros/cmake/test_mavrosConfig-version.cmake
-/home/yitinghe/Desktop/final_project/final_project/mavros_ws/devel/.private/test_mavros/lib/libmavros_sitl_test.so /home/yitinghe/Desktop/final_project/final_project/mavros_ws/devel/lib/libmavros_sitl_test.so
-/home/yitinghe/Desktop/final_project/final_project/mavros_ws/devel/.private/test_mavros/lib/pkgconfig/test_mavros.pc /home/yitinghe/Desktop/final_project/final_project/mavros_ws/devel/lib/pkgconfig/test_mavros.pc
-/home/yitinghe/Desktop/final_project/final_project/mavros_ws/devel/.private/test_mavros/lib/test_mavros/sitl_test_node /home/yitinghe/Desktop/final_project/final_project/mavros_ws/devel/lib/test_mavros/sitl_test_node

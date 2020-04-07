@@ -1,9 +1,0 @@
-tf2_info
-/home/yitinghe/Desktop/final_project/final_project/mavros_ws/devel/.private/tf2_info/cmake.lock /home/yitinghe/Desktop/final_project/final_project/mavros_ws/devel/./cmake.lock
-/home/yitinghe/Desktop/final_project/final_project/mavros_ws/devel/.private/tf2_info/share/tf2_info/cmake/tf2_infoConfig.cmake /home/yitinghe/Desktop/final_project/final_project/mavros_ws/devel/share/tf2_info/cmake/tf2_infoConfig.cmake
-/home/yitinghe/Desktop/final_project/final_project/mavros_ws/devel/.private/tf2_info/share/tf2_info/cmake/tf2_infoConfig-version.cmake /home/yitinghe/Desktop/final_project/final_project/mavros_ws/devel/share/tf2_info/cmake/tf2_infoConfig-version.cmake
-/home/yitinghe/Desktop/final_project/final_project/mavros_ws/devel/.private/tf2_info/lib/tf2_info/tag_tf_node /home/yitinghe/Desktop/final_project/final_project/mavros_ws/devel/lib/tf2_info/tag_tf_node
-/home/yitinghe/Desktop/final_project/final_project/mavros_ws/devel/.private/tf2_info/lib/tf2_info/camera_static_tf_node /home/yitinghe/Desktop/final_project/final_project/mavros_ws/devel/lib/tf2_info/camera_static_tf_node
-/home/yitinghe/Desktop/final_project/final_project/mavros_ws/devel/.private/tf2_info/lib/tf2_info/tf2_info_node /home/yitinghe/Desktop/final_project/final_project/mavros_ws/devel/lib/tf2_info/tf2_info_node
-/home/yitinghe/Desktop/final_project/final_project/mavros_ws/devel/.private/tf2_info/lib/tf2_info/iris_tf_node /home/yitinghe/Desktop/final_project/final_project/mavros_ws/devel/lib/tf2_info/iris_tf_node
-/home/yitinghe/Desktop/final_project/final_project/mavros_ws/devel/.private/tf2_info/lib/pkgconfig/tf2_info.pc /home/yitinghe/Desktop/final_project/final_project/mavros_ws/devel/lib/pkgconfig/tf2_info.pc
