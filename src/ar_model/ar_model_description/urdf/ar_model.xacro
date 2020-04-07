@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<robot name="ar_model" xmlns:xacro="http://www.ros.org/wiki/xacro">
+
+  <!-- Constants for robot dimensions -->
+  <xacro:property name="PI" value="3.1415926535897931"/>
+  <xacro:property name="mass" value="1e-5" /> <!-- arbitrary value for mass -->
+  <xacro:property name="width" value="0.2" /> <!-- Square dimensions (widthxwidth) of beams -->
+
+  <!-- Import all Gazebo-customization elements, including Gazebo colors -->
+  <!--<xacro:include filename="$(find ar_model_description)/urdf/ar_model.gazebo" /> -->
+  <!-- Import Rviz colors -->
+  <xacro:include filename="$(find ar_model_description)/urdf/materials.xacro" />
+
+  <!-- Used for ar_tags -->
+  <link name="tag_box">
+    <collision>
+      <origin xyz="0 0 ${width/2}" rpy="0 0 0"/>
+      <geometry>
+        <box size="${width} ${width} ${width}"/>
+      </geometry>
+    </collision>
+
+    <visual>
+      <origin xyz="0 0 ${width/2}" rpy="0 0 0"/>
+      <geometry>
+        <mesh filename="package://ar_model_description/meshes/apriltag_01_20cm.dae"/>
+      </geometry>
+    </visual>
+
+    <inertial>
+      <mass value="${mass}" />
+      <origin xyz="0 0 ${width/2}" rpy="0 0 0"/>
+      <inertia ixx="1e-6" ixy="0" ixz="0" iyy="1e-6" iyz="0" izz="1e-6" />
+    </inertial>
+  </link>
+
+</robot>

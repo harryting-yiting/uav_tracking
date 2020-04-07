@@ -1,0 +1,5 @@
+tools/ros_control/controller_interface
+/home/yitinghe/Desktop/final_project/final_project/mavros_ws/devel/.private/controller_interface/cmake.lock /home/yitinghe/Desktop/final_project/final_project/mavros_ws/devel/./cmake.lock
+/home/yitinghe/Desktop/final_project/final_project/mavros_ws/devel/.private/controller_interface/share/controller_interface/cmake/controller_interfaceConfig-version.cmake /home/yitinghe/Desktop/final_project/final_project/mavros_ws/devel/share/controller_interface/cmake/controller_interfaceConfig-version.cmake
+/home/yitinghe/Desktop/final_project/final_project/mavros_ws/devel/.private/controller_interface/share/controller_interface/cmake/controller_interfaceConfig.cmake /home/yitinghe/Desktop/final_project/final_project/mavros_ws/devel/share/controller_interface/cmake/controller_interfaceConfig.cmake
+/home/yitinghe/Desktop/final_project/final_project/mavros_ws/devel/.private/controller_interface/lib/pkgconfig/controller_interface.pc /home/yitinghe/Desktop/final_project/final_project/mavros_ws/devel/lib/pkgconfig/controller_interface.pc

@@ -1,0 +1,36 @@
+{
+    "configurations": [
+        {
+            "browse": {
+                "databaseFilename": "",
+                "limitSymbolsToIncludedHeaders": true
+            },
+            "includePath": [
+                "/home/yitinghe/Desktop/final_project/final_project/mavros_ws/devel/include/**",
+                "/opt/ros/melodic/include/**",
+                "/home/yitinghe/Desktop/final_project/final_project/mavros_ws/src/ar_track/ar_track_alvar/ar_track_alvar/include/**",
+                "/home/yitinghe/Desktop/final_project/final_project/mavros_ws/src/tools/ros_control/combined_robot_hw/include/**",
+                "/home/yitinghe/Desktop/final_project/final_project/mavros_ws/src/tools/ros_control/combined_robot_hw_tests/include/**",
+                "/home/yitinghe/Desktop/final_project/final_project/mavros_ws/src/tools/ros_control/controller_interface/include/**",
+                "/home/yitinghe/Desktop/final_project/final_project/mavros_ws/src/tools/ros_control/controller_manager/include/**",
+                "/home/yitinghe/Desktop/final_project/final_project/mavros_ws/src/tools/ros_control/controller_manager_tests/include/**",
+                "/home/yitinghe/Desktop/final_project/final_project/mavros_ws/src/tools/ros_control/hardware_interface/include/**",
+                "/home/yitinghe/Desktop/final_project/final_project/mavros_ws/src/tools/ros_control/joint_limits_interface/include/**",
+                "/home/yitinghe/Desktop/final_project/final_project/mavros_ws/src/tools/mavros/libmavconn/include/**",
+                "/home/yitinghe/Desktop/final_project/final_project/mavros_ws/src/tools/mavros/mavros/include/**",
+                "/home/yitinghe/Desktop/final_project/final_project/mavros_ws/src/tools/mavros/mavros_msgs/include/**",
+                "/home/yitinghe/Desktop/final_project/final_project/mavros_ws/src/tools/mavros/test_mavros/include/**",
+                "/home/yitinghe/Desktop/final_project/final_project/mavros_ws/src/tools/ros_control/transmission_interface/include/**",
+                "/home/yitinghe/Desktop/final_project/final_project/mavros_ws/src/tools/tutor_control/include/**",
+                "/usr/include/**"
+            ],
+            "name": "ROS",
+            "intelliSenseMode": "gcc-x64",
+            "compilerPath": "/usr/bin/clang",
+            "cStandard": "c11",
+            "cppStandard": "c++17",
+            "configurationProvider": "vector-of-bool.cmake-tools"
+        }
+    ],
+    "version": 4
+}

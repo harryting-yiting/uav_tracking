@@ -1,0 +1,7 @@
+tools/ros_control/controller_manager
+/home/yitinghe/Desktop/final_project/final_project/mavros_ws/devel/.private/controller_manager/cmake.lock /home/yitinghe/Desktop/final_project/final_project/mavros_ws/devel/./cmake.lock
+/home/yitinghe/Desktop/final_project/final_project/mavros_ws/devel/.private/controller_manager/share/controller_manager/cmake/controller_managerConfig-version.cmake /home/yitinghe/Desktop/final_project/final_project/mavros_ws/devel/share/controller_manager/cmake/controller_managerConfig-version.cmake
+/home/yitinghe/Desktop/final_project/final_project/mavros_ws/devel/.private/controller_manager/share/controller_manager/cmake/controller_managerConfig.cmake /home/yitinghe/Desktop/final_project/final_project/mavros_ws/devel/share/controller_manager/cmake/controller_managerConfig.cmake
+/home/yitinghe/Desktop/final_project/final_project/mavros_ws/devel/.private/controller_manager/lib/libcontroller_manager.so /home/yitinghe/Desktop/final_project/final_project/mavros_ws/devel/lib/libcontroller_manager.so
+/home/yitinghe/Desktop/final_project/final_project/mavros_ws/devel/.private/controller_manager/lib/pkgconfig/controller_manager.pc /home/yitinghe/Desktop/final_project/final_project/mavros_ws/devel/lib/pkgconfig/controller_manager.pc
+/home/yitinghe/Desktop/final_project/final_project/mavros_ws/devel/.private/controller_manager/lib/python2.7/dist-packages/controller_manager/__init__.py /home/yitinghe/Desktop/final_project/final_project/mavros_ws/devel/lib/python2.7/dist-packages/controller_manager/__init__.py

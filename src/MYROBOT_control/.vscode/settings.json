@@ -1,0 +1,7 @@
+{
+    "cmake.configureOnOpen": true,
+    "python.autoComplete.extraPaths": [
+        "/home/yitinghe/Desktop/final_project/final_project/mavros_ws/devel/lib/python2.7/dist-packages",
+        "/opt/ros/melodic/lib/python2.7/dist-packages"
+    ]
+}

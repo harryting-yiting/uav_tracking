@@ -1,0 +1,5 @@
+<launch>
+<node pkg="tf2_info" type= "iris_tf_node" name="iris_tf_node" />
+<node pkg="tf2_info" type="camera_static_tf_node" name="camera_static_tf_node" />
+<node pkg="tf2_info" type="tag_tf_node" name="tag_tf_node" />
+</launch>

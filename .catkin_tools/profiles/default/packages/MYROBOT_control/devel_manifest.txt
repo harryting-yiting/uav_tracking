@@ -1,0 +1,5 @@
+MYROBOT_control
+/home/yitinghe/Desktop/final_project/final_project/mavros_ws/devel/.private/MYROBOT_control/cmake.lock /home/yitinghe/Desktop/final_project/final_project/mavros_ws/devel/./cmake.lock
+/home/yitinghe/Desktop/final_project/final_project/mavros_ws/devel/.private/MYROBOT_control/share/MYROBOT_control/cmake/MYROBOT_controlConfig-version.cmake /home/yitinghe/Desktop/final_project/final_project/mavros_ws/devel/share/MYROBOT_control/cmake/MYROBOT_controlConfig-version.cmake
+/home/yitinghe/Desktop/final_project/final_project/mavros_ws/devel/.private/MYROBOT_control/share/MYROBOT_control/cmake/MYROBOT_controlConfig.cmake /home/yitinghe/Desktop/final_project/final_project/mavros_ws/devel/share/MYROBOT_control/cmake/MYROBOT_controlConfig.cmake
+/home/yitinghe/Desktop/final_project/final_project/mavros_ws/devel/.private/MYROBOT_control/lib/pkgconfig/MYROBOT_control.pc /home/yitinghe/Desktop/final_project/final_project/mavros_ws/devel/lib/pkgconfig/MYROBOT_control.pc
