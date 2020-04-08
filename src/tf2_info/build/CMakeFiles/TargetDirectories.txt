@@ -1,6 +1,9 @@
 /home/yitinghe/Desktop/final_project/final_project/mavros_ws/src/tf2_info/build/CMakeFiles/install.dir
 /home/yitinghe/Desktop/final_project/final_project/mavros_ws/src/tf2_info/build/CMakeFiles/list_install_components.dir
+/home/yitinghe/Desktop/final_project/final_project/mavros_ws/src/tf2_info/build/CMakeFiles/tag_tf_node.dir
+/home/yitinghe/Desktop/final_project/final_project/mavros_ws/src/tf2_info/build/CMakeFiles/camera_static_tf_node.dir
 /home/yitinghe/Desktop/final_project/final_project/mavros_ws/src/tf2_info/build/CMakeFiles/edit_cache.dir
+/home/yitinghe/Desktop/final_project/final_project/mavros_ws/src/tf2_info/build/CMakeFiles/iris_tf_node.dir
 /home/yitinghe/Desktop/final_project/final_project/mavros_ws/src/tf2_info/build/CMakeFiles/actionlib_generate_messages_py.dir
 /home/yitinghe/Desktop/final_project/final_project/mavros_ws/src/tf2_info/build/CMakeFiles/test.dir
 /home/yitinghe/Desktop/final_project/final_project/mavros_ws/src/tf2_info/build/CMakeFiles/actionlib_generate_messages_nodejs.dir
@@ -36,7 +39,6 @@
 /home/yitinghe/Desktop/final_project/final_project/mavros_ws/src/tf2_info/build/CMakeFiles/std_msgs_generate_messages_cpp.dir
 /home/yitinghe/Desktop/final_project/final_project/mavros_ws/src/tf2_info/build/CMakeFiles/trajectory_msgs_generate_messages_nodejs.dir
 /home/yitinghe/Desktop/final_project/final_project/mavros_ws/src/tf2_info/build/CMakeFiles/sensor_msgs_generate_messages_py.dir
-/home/yitinghe/Desktop/final_project/final_project/mavros_ws/src/tf2_info/build/CMakeFiles/tf2_info_node.dir
 /home/yitinghe/Desktop/final_project/final_project/mavros_ws/src/tf2_info/build/CMakeFiles/std_msgs_generate_messages_lisp.dir
 /home/yitinghe/Desktop/final_project/final_project/mavros_ws/src/tf2_info/build/CMakeFiles/sensor_msgs_generate_messages_cpp.dir
 /home/yitinghe/Desktop/final_project/final_project/mavros_ws/src/tf2_info/build/CMakeFiles/sensor_msgs_generate_messages_eus.dir

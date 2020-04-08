@@ -44,6 +44,70 @@ build install: phony CMakeFiles/install.util
 # Utility command for list_install_components
 
 build list_install_components: phony
+# =============================================================================
+# Object build statements for EXECUTABLE target tag_tf_node
+
+
+#############################################
+# Order-only phony target for tag_tf_node
+
+build cmake_object_order_depends_target_tag_tf_node: phony
+build CMakeFiles/tag_tf_node.dir/nodes/tag_tf_node.cpp.o: CXX_COMPILER__tag_tf_node ../nodes/tag_tf_node.cpp || cmake_object_order_depends_target_tag_tf_node
+  DEFINES = -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\"tf2_info\"
+  DEP_FILE = CMakeFiles/tag_tf_node.dir/nodes/tag_tf_node.cpp.o.d
+  FLAGS = -g
+  INCLUDES = -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp
+  OBJECT_DIR = CMakeFiles/tag_tf_node.dir
+  OBJECT_FILE_DIR = CMakeFiles/tag_tf_node.dir/nodes
+
+# =============================================================================
+# Link build statements for EXECUTABLE target tag_tf_node
+
+
+#############################################
+# Link the executable devel/lib/tf2_info/tag_tf_node
+
+build devel/lib/tf2_info/tag_tf_node: CXX_EXECUTABLE_LINKER__tag_tf_node CMakeFiles/tag_tf_node.dir/nodes/tag_tf_node.cpp.o | /opt/ros/melodic/lib/libtf2_ros.so /opt/ros/melodic/lib/libactionlib.so /opt/ros/melodic/lib/libmessage_filters.so /opt/ros/melodic/lib/libroscpp.so /usr/lib/x86_64-linux-gnu/libboost_filesystem.so /opt/ros/melodic/lib/librosconsole.so /opt/ros/melodic/lib/librosconsole_log4cxx.so /opt/ros/melodic/lib/librosconsole_backend_interface.so /usr/lib/x86_64-linux-gnu/liblog4cxx.so /usr/lib/x86_64-linux-gnu/libboost_regex.so /opt/ros/melodic/lib/libxmlrpcpp.so /opt/ros/melodic/lib/libtf2.so /opt/ros/melodic/lib/libroscpp_serialization.so /opt/ros/melodic/lib/librostime.so /opt/ros/melodic/lib/libcpp_common.so /usr/lib/x86_64-linux-gnu/libboost_system.so /usr/lib/x86_64-linux-gnu/libboost_thread.so /usr/lib/x86_64-linux-gnu/libboost_chrono.so /usr/lib/x86_64-linux-gnu/libboost_date_time.so /usr/lib/x86_64-linux-gnu/libboost_atomic.so /usr/lib/x86_64-linux-gnu/libpthread.so /usr/lib/x86_64-linux-gnu/libconsole_bridge.so.0.4
+  FLAGS = -g
+  LINK_FLAGS = -rdynamic
+  LINK_LIBRARIES = -Wl,-rpath,/opt/ros/melodic/lib /opt/ros/melodic/lib/libtf2_ros.so /opt/ros/melodic/lib/libactionlib.so /opt/ros/melodic/lib/libmessage_filters.so /opt/ros/melodic/lib/libroscpp.so -lboost_filesystem /opt/ros/melodic/lib/librosconsole.so /opt/ros/melodic/lib/librosconsole_log4cxx.so /opt/ros/melodic/lib/librosconsole_backend_interface.so -llog4cxx -lboost_regex /opt/ros/melodic/lib/libxmlrpcpp.so /opt/ros/melodic/lib/libtf2.so /opt/ros/melodic/lib/libroscpp_serialization.so /opt/ros/melodic/lib/librostime.so /opt/ros/melodic/lib/libcpp_common.so -lboost_system -lboost_thread -lboost_chrono -lboost_date_time -lboost_atomic -lpthread /usr/lib/x86_64-linux-gnu/libconsole_bridge.so.0.4
+  OBJECT_DIR = CMakeFiles/tag_tf_node.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = devel/lib/tf2_info/tag_tf_node
+  TARGET_PDB = tag_tf_node.dbg
+# =============================================================================
+# Object build statements for EXECUTABLE target camera_static_tf_node
+
+
+#############################################
+# Order-only phony target for camera_static_tf_node
+
+build cmake_object_order_depends_target_camera_static_tf_node: phony
+build CMakeFiles/camera_static_tf_node.dir/nodes/camera_static_tf_node.cpp.o: CXX_COMPILER__camera_static_tf_node ../nodes/camera_static_tf_node.cpp || cmake_object_order_depends_target_camera_static_tf_node
+  DEFINES = -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\"tf2_info\"
+  DEP_FILE = CMakeFiles/camera_static_tf_node.dir/nodes/camera_static_tf_node.cpp.o.d
+  FLAGS = -g
+  INCLUDES = -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp
+  OBJECT_DIR = CMakeFiles/camera_static_tf_node.dir
+  OBJECT_FILE_DIR = CMakeFiles/camera_static_tf_node.dir/nodes
+
+# =============================================================================
+# Link build statements for EXECUTABLE target camera_static_tf_node
+
+
+#############################################
+# Link the executable devel/lib/tf2_info/camera_static_tf_node
+
+build devel/lib/tf2_info/camera_static_tf_node: CXX_EXECUTABLE_LINKER__camera_static_tf_node CMakeFiles/camera_static_tf_node.dir/nodes/camera_static_tf_node.cpp.o | /opt/ros/melodic/lib/libtf2_ros.so /opt/ros/melodic/lib/libactionlib.so /opt/ros/melodic/lib/libmessage_filters.so /opt/ros/melodic/lib/libroscpp.so /usr/lib/x86_64-linux-gnu/libboost_filesystem.so /opt/ros/melodic/lib/librosconsole.so /opt/ros/melodic/lib/librosconsole_log4cxx.so /opt/ros/melodic/lib/librosconsole_backend_interface.so /usr/lib/x86_64-linux-gnu/liblog4cxx.so /usr/lib/x86_64-linux-gnu/libboost_regex.so /opt/ros/melodic/lib/libxmlrpcpp.so /opt/ros/melodic/lib/libtf2.so /opt/ros/melodic/lib/libroscpp_serialization.so /opt/ros/melodic/lib/librostime.so /opt/ros/melodic/lib/libcpp_common.so /usr/lib/x86_64-linux-gnu/libboost_system.so /usr/lib/x86_64-linux-gnu/libboost_thread.so /usr/lib/x86_64-linux-gnu/libboost_chrono.so /usr/lib/x86_64-linux-gnu/libboost_date_time.so /usr/lib/x86_64-linux-gnu/libboost_atomic.so /usr/lib/x86_64-linux-gnu/libpthread.so /usr/lib/x86_64-linux-gnu/libconsole_bridge.so.0.4
+  FLAGS = -g
+  LINK_FLAGS = -rdynamic
+  LINK_LIBRARIES = -Wl,-rpath,/opt/ros/melodic/lib /opt/ros/melodic/lib/libtf2_ros.so /opt/ros/melodic/lib/libactionlib.so /opt/ros/melodic/lib/libmessage_filters.so /opt/ros/melodic/lib/libroscpp.so -lboost_filesystem /opt/ros/melodic/lib/librosconsole.so /opt/ros/melodic/lib/librosconsole_log4cxx.so /opt/ros/melodic/lib/librosconsole_backend_interface.so -llog4cxx -lboost_regex /opt/ros/melodic/lib/libxmlrpcpp.so /opt/ros/melodic/lib/libtf2.so /opt/ros/melodic/lib/libroscpp_serialization.so /opt/ros/melodic/lib/librostime.so /opt/ros/melodic/lib/libcpp_common.so -lboost_system -lboost_thread -lboost_chrono -lboost_date_time -lboost_atomic -lpthread /usr/lib/x86_64-linux-gnu/libconsole_bridge.so.0.4
+  OBJECT_DIR = CMakeFiles/camera_static_tf_node.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = devel/lib/tf2_info/camera_static_tf_node
+  TARGET_PDB = camera_static_tf_node.dbg
 
 #############################################
 # Utility command for edit_cache
@@ -53,6 +117,38 @@ build CMakeFiles/edit_cache.util: CUSTOM_COMMAND
   DESC = No interactive CMake dialog available...
   restat = 1
 build edit_cache: phony CMakeFiles/edit_cache.util
+# =============================================================================
+# Object build statements for EXECUTABLE target iris_tf_node
+
+
+#############################################
+# Order-only phony target for iris_tf_node
+
+build cmake_object_order_depends_target_iris_tf_node: phony
+build CMakeFiles/iris_tf_node.dir/nodes/iris_tf_node.cpp.o: CXX_COMPILER__iris_tf_node ../nodes/iris_tf_node.cpp || cmake_object_order_depends_target_iris_tf_node
+  DEFINES = -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\"tf2_info\"
+  DEP_FILE = CMakeFiles/iris_tf_node.dir/nodes/iris_tf_node.cpp.o.d
+  FLAGS = -g
+  INCLUDES = -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp
+  OBJECT_DIR = CMakeFiles/iris_tf_node.dir
+  OBJECT_FILE_DIR = CMakeFiles/iris_tf_node.dir/nodes
+
+# =============================================================================
+# Link build statements for EXECUTABLE target iris_tf_node
+
+
+#############################################
+# Link the executable devel/lib/tf2_info/iris_tf_node
+
+build devel/lib/tf2_info/iris_tf_node: CXX_EXECUTABLE_LINKER__iris_tf_node CMakeFiles/iris_tf_node.dir/nodes/iris_tf_node.cpp.o | /opt/ros/melodic/lib/libtf2_ros.so /opt/ros/melodic/lib/libactionlib.so /opt/ros/melodic/lib/libmessage_filters.so /opt/ros/melodic/lib/libroscpp.so /usr/lib/x86_64-linux-gnu/libboost_filesystem.so /opt/ros/melodic/lib/librosconsole.so /opt/ros/melodic/lib/librosconsole_log4cxx.so /opt/ros/melodic/lib/librosconsole_backend_interface.so /usr/lib/x86_64-linux-gnu/liblog4cxx.so /usr/lib/x86_64-linux-gnu/libboost_regex.so /opt/ros/melodic/lib/libxmlrpcpp.so /opt/ros/melodic/lib/libtf2.so /opt/ros/melodic/lib/libroscpp_serialization.so /opt/ros/melodic/lib/librostime.so /opt/ros/melodic/lib/libcpp_common.so /usr/lib/x86_64-linux-gnu/libboost_system.so /usr/lib/x86_64-linux-gnu/libboost_thread.so /usr/lib/x86_64-linux-gnu/libboost_chrono.so /usr/lib/x86_64-linux-gnu/libboost_date_time.so /usr/lib/x86_64-linux-gnu/libboost_atomic.so /usr/lib/x86_64-linux-gnu/libpthread.so /usr/lib/x86_64-linux-gnu/libconsole_bridge.so.0.4
+  FLAGS = -g
+  LINK_FLAGS = -rdynamic
+  LINK_LIBRARIES = -Wl,-rpath,/opt/ros/melodic/lib /opt/ros/melodic/lib/libtf2_ros.so /opt/ros/melodic/lib/libactionlib.so /opt/ros/melodic/lib/libmessage_filters.so /opt/ros/melodic/lib/libroscpp.so -lboost_filesystem /opt/ros/melodic/lib/librosconsole.so /opt/ros/melodic/lib/librosconsole_log4cxx.so /opt/ros/melodic/lib/librosconsole_backend_interface.so -llog4cxx -lboost_regex /opt/ros/melodic/lib/libxmlrpcpp.so /opt/ros/melodic/lib/libtf2.so /opt/ros/melodic/lib/libroscpp_serialization.so /opt/ros/melodic/lib/librostime.so /opt/ros/melodic/lib/libcpp_common.so -lboost_system -lboost_thread -lboost_chrono -lboost_date_time -lboost_atomic -lpthread /usr/lib/x86_64-linux-gnu/libconsole_bridge.so.0.4
+  OBJECT_DIR = CMakeFiles/iris_tf_node.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = devel/lib/tf2_info/iris_tf_node
+  TARGET_PDB = iris_tf_node.dbg
 
 #############################################
 # Utility command for actionlib_generate_messages_py
@@ -238,38 +334,6 @@ build trajectory_msgs_generate_messages_nodejs: phony
 # Utility command for sensor_msgs_generate_messages_py
 
 build sensor_msgs_generate_messages_py: phony
-# =============================================================================
-# Object build statements for EXECUTABLE target tf2_info_node
-
-
-#############################################
-# Order-only phony target for tf2_info_node
-
-build cmake_object_order_depends_target_tf2_info_node: phony
-build CMakeFiles/tf2_info_node.dir/nodes/iris_tf_node.cpp.o: CXX_COMPILER__tf2_info_node ../nodes/iris_tf_node.cpp || cmake_object_order_depends_target_tf2_info_node
-  DEFINES = -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\"tf2_info\"
-  DEP_FILE = CMakeFiles/tf2_info_node.dir/nodes/iris_tf_node.cpp.o.d
-  FLAGS = -g
-  INCLUDES = -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp
-  OBJECT_DIR = CMakeFiles/tf2_info_node.dir
-  OBJECT_FILE_DIR = CMakeFiles/tf2_info_node.dir/nodes
-
-# =============================================================================
-# Link build statements for EXECUTABLE target tf2_info_node
-
-
-#############################################
-# Link the executable devel/lib/tf2_info/tf2_info_node
-
-build devel/lib/tf2_info/tf2_info_node: CXX_EXECUTABLE_LINKER__tf2_info_node CMakeFiles/tf2_info_node.dir/nodes/iris_tf_node.cpp.o | /opt/ros/melodic/lib/libtf2_ros.so /opt/ros/melodic/lib/libactionlib.so /opt/ros/melodic/lib/libmessage_filters.so /opt/ros/melodic/lib/libroscpp.so /usr/lib/x86_64-linux-gnu/libboost_filesystem.so /opt/ros/melodic/lib/librosconsole.so /opt/ros/melodic/lib/librosconsole_log4cxx.so /opt/ros/melodic/lib/librosconsole_backend_interface.so /usr/lib/x86_64-linux-gnu/liblog4cxx.so /usr/lib/x86_64-linux-gnu/libboost_regex.so /opt/ros/melodic/lib/libxmlrpcpp.so /opt/ros/melodic/lib/libtf2.so /opt/ros/melodic/lib/libroscpp_serialization.so /opt/ros/melodic/lib/librostime.so /opt/ros/melodic/lib/libcpp_common.so /usr/lib/x86_64-linux-gnu/libboost_system.so /usr/lib/x86_64-linux-gnu/libboost_thread.so /usr/lib/x86_64-linux-gnu/libboost_chrono.so /usr/lib/x86_64-linux-gnu/libboost_date_time.so /usr/lib/x86_64-linux-gnu/libboost_atomic.so /usr/lib/x86_64-linux-gnu/libpthread.so /usr/lib/x86_64-linux-gnu/libconsole_bridge.so.0.4
-  FLAGS = -g
-  LINK_FLAGS = -rdynamic
-  LINK_LIBRARIES = -Wl,-rpath,/opt/ros/melodic/lib /opt/ros/melodic/lib/libtf2_ros.so /opt/ros/melodic/lib/libactionlib.so /opt/ros/melodic/lib/libmessage_filters.so /opt/ros/melodic/lib/libroscpp.so -lboost_filesystem /opt/ros/melodic/lib/librosconsole.so /opt/ros/melodic/lib/librosconsole_log4cxx.so /opt/ros/melodic/lib/librosconsole_backend_interface.so -llog4cxx -lboost_regex /opt/ros/melodic/lib/libxmlrpcpp.so /opt/ros/melodic/lib/libtf2.so /opt/ros/melodic/lib/libroscpp_serialization.so /opt/ros/melodic/lib/librostime.so /opt/ros/melodic/lib/libcpp_common.so -lboost_system -lboost_thread -lboost_chrono -lboost_date_time -lboost_atomic -lpthread /usr/lib/x86_64-linux-gnu/libconsole_bridge.so.0.4
-  OBJECT_DIR = CMakeFiles/tf2_info_node.dir
-  POST_BUILD = :
-  PRE_LINK = :
-  TARGET_FILE = devel/lib/tf2_info/tf2_info_node
-  TARGET_PDB = tf2_info_node.dbg
 
 #############################################
 # Utility command for std_msgs_generate_messages_lisp
@@ -796,15 +860,17 @@ build gtest/googlemock/gtest/rebuild_cache: phony gtest/googlemock/gtest/CMakeFi
 # =============================================================================
 # Target aliases.
 
+build camera_static_tf_node: phony devel/lib/tf2_info/camera_static_tf_node
 build gmock: phony gtest/googlemock/libgmock.so
 build gmock_main: phony gtest/googlemock/libgmock_main.so
 build gtest: phony gtest/googlemock/gtest/libgtest.so
 build gtest_main: phony gtest/googlemock/gtest/libgtest_main.so
+build iris_tf_node: phony devel/lib/tf2_info/iris_tf_node
 build libgmock.so: phony gtest/googlemock/libgmock.so
 build libgmock_main.so: phony gtest/googlemock/libgmock_main.so
 build libgtest.so: phony gtest/googlemock/gtest/libgtest.so
 build libgtest_main.so: phony gtest/googlemock/gtest/libgtest_main.so
-build tf2_info_node: phony devel/lib/tf2_info/tf2_info_node
+build tag_tf_node: phony devel/lib/tf2_info/tag_tf_node
 # =============================================================================
 # Folder targets.
 
@@ -839,7 +905,7 @@ build  gtest/googlemock/gtest/all: phony
 #############################################
 # The main all target.
 
-build all: phony devel/lib/tf2_info/tf2_info_node
+build all: phony devel/lib/tf2_info/tag_tf_node devel/lib/tf2_info/camera_static_tf_node devel/lib/tf2_info/iris_tf_node
 
 #############################################
 # Make the all target the default.

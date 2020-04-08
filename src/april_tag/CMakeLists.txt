@@ -14,6 +14,10 @@ find_package(catkin REQUIRED COMPONENTS
   sensor_msgs
   cv_bridge
   std_msgs
+  tf
+  tf2
+  tf2_ros
+  tf2_geometry_msgs
 )
 
 find_package(OpenCV REQUIRED)
@@ -108,7 +112,7 @@ find_package(Threads REQUIRED)
 catkin_package(
 #  INCLUDE_DIRS include
 #  LIBRARIES april_tag
-  CATKIN_DEPENDS rospy roscpp sensor_msgs geometry_msgs cv_bridge 
+  CATKIN_DEPENDS rospy roscpp sensor_msgs geometry_msgs cv_bridge tf tf2 tf2_ros tf2_geometry_msgs
   DEPENDS OpenCV 
 )
 
